@@ -1,0 +1,84 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/pulmonary-copd---primary.py
+inputModule3:
+  class: File
+  path: python/copd-admission---primary.py
+inputModule4:
+  class: File
+  path: python/monthly-copd---primary.py
+inputModule5:
+  class: File
+  path: python/copd-airway---primary.py
+inputModule6:
+  class: File
+  path: python/severe-copd---primary.py
+inputModule7:
+  class: File
+  path: python/copd-monitoring---primary.py
+inputModule8:
+  class: File
+  path: python/copd-bronchiolitis---primary.py
+inputModule9:
+  class: File
+  path: python/bullous-copd---primary.py
+inputModule10:
+  class: File
+  path: python/copd-emergency---primary.py
+inputModule11:
+  class: File
+  path: python/copd-emphysema---primary.py
+inputModule12:
+  class: File
+  path: python/copd-exacerbation---primary.py
+inputModule13:
+  class: File
+  path: python/copd-specified---primary.py
+inputModule14:
+  class: File
+  path: python/copd-invite---primary.py
+inputModule15:
+  class: File
+  path: python/copd-letter---primary.py
+inputModule16:
+  class: File
+  path: python/copd-followup---primary.py
+inputModule17:
+  class: File
+  path: python/other-copd---primary.py
+inputModule18:
+  class: File
+  path: python/copd-pathway---primary.py
+inputModule19:
+  class: File
+  path: python/acute-copd---primary.py
+inputModule20:
+  class: File
+  path: python/copd-sawyerjones---primary.py
+inputModule21:
+  class: File
+  path: python/copd-supportv---primary.py
+inputModule22:
+  class: File
+  path: python/copd-sleep---primary.py
+inputModule23:
+  class: File
+  path: python/chemical-copd---primary.py
+inputModule24:
+  class: File
+  path: python/copd-disturb---primary.py
+inputModule25:
+  class: File
+  path: python/copd-bronchitis---primary.py
+inputModule26:
+  class: File
+  path: python/copd-review---primary.py
+inputModule27:
+  class: File
+  path: python/copd---primary.py
+inputModule28:
+  class: File
+  path: python/output-cases.py
